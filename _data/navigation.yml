@@ -2,10 +2,8 @@ header:
   - titles:
       # @start locale config
       en      : &EN       About Me
-      encoding: UTF-8
       url: /aboutme.html
   - titles:
       # @start locale config
       en      : &EN       Blog
-      encoding: UTF-8
       url: /blog.html
